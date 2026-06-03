@@ -90,7 +90,7 @@ The calculator is optimized for:
 
 ## 👨‍💻 Author
 
-Phanath IM
+Phanath EM
 
 Website Development Student
 
