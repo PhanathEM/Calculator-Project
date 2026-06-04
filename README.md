@@ -54,13 +54,13 @@ calculator/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/PhanathEM/Calculator-Project
+git clone https://github.com/PhanathEM/Calculator-Project.git
 ```
 
 2. Open the project folder
 
 ```bash
-cd calculator
+cd Calculator-Project
 ```
 
 3. Open `index.html` in your browser
