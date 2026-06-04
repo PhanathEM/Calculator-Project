@@ -1,4 +1,4 @@
-# 🧮 Responsive Calculator
+# 🧮 Calculator - Project
 
 A modern and responsive calculator built with HTML, CSS, and JavaScript.
 
@@ -90,10 +90,9 @@ The calculator is optimized for:
 
 ## 👨‍💻 Author
 
-Phanath EM
+Developed by Phanath EM
 
-Website Development Student
 
 ## 📄 License
 
-This project is open-source and available under the MIT License.
+This project is for educational and portfolio purposes.
